@@ -6,7 +6,7 @@ GitHub (sensibly) doesn't allow embedding JS. Copy the code into [a bookmarklet 
 
 ## Compatibility
 
-Tested against this list:
+Tested against this list using [regex101](https://regex101.com/r/oQ8aM8/1):
 
 * 48 credits
 * 12 optional course credits
