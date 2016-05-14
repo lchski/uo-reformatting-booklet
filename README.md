@@ -2,6 +2,8 @@
 
 Dividing numbers by 3 is annoying. With this bookmarklet, credit numbers are reduced to "courses".
 
+GitHub (sensibly) doesn't allow embedding JS. Copy the code into [a bookmarklet generator](http://mrcoles.com/bookmarklet/) and get the bookmarklet from there.
+
 ## Compatibility
 
 Tested against this list:
